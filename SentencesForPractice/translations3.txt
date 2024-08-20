@@ -1,0 +1,72 @@
+Мене звати|My name is
+Як тебе звати?|What is your name?
+Я тут|I am here
+Він тут|He is here
+Вони тут|They are here
+Я був тут|I was here
+Ти був там|You were there
+Вони там і вона буде там|They are there and she will be there
+Він не тут але він був тут|He is not here but he was here
+Він там?|Is he there?
+Його там нема|He is not there
+Вона мій друг|She is my friend
+Він не був моїм другом|He was not my friend
+Він буде моїм дизайнером|He will be my designer
+Вона буде моїм водієм|She will be my driver
+Вони були моїми партнерами|They were my partners
+Вона не буде моїм водієм мій водій там|She will not be my driver my driver is there
+Він був моїм водієм і він був хорошим|He was my driver and he was good
+Я був в Токіо вона там|I was in Tokyo she is there
+Вони були там?|Were they there?
+Ми не були тут|We were not here
+Я не в Нью-Йорку|I am not in New York
+Вони були з тобою в Токіо?|Were they with you in Tokyo?
+Ти будеш тут?|Will you be here?
+Де вони?|Where are they?
+Він там, вона тут|He is there she is here
+Він не був моїм ворогом|He was not my enemy
+Він був моїм другом|He was my friend
+Він не буде тут|He will not be here
+Він буде там|He will be there
+Що ти робиш?|What are you doing?
+Я говорю з тобою|I am speaking with you
+Що вона робить зараз?|What is she doing now?
+Я їм зараз|I am eating now
+Вони їдять (зараз)?|Are they eating?
+Вони не їдять (зараз)|They are not eating
+Що вони роблять?|What are they doing?
+Вони знімають рекламний ролик|They are shooting a commercial
+Я знімав вчора о 5 годині|I was shooting yesterday at 5 o'clock
+Мені подобаємться знімати|I like to shoot
+Він хоче їсти|He wants to eat
+Вона не хотіла їсти|She did not want to eat
+Їй не подобалось знімати?|Did not she like to shoot?
+Коли він хотів їсти?|When did he want to eat?
+Їй подобаєтся знімати на її iPhone|She likes to shoot on her iPhone
+Він надає перевагу знімати на його Samsung|He prefers to shoot on his Samsung
+Що він знімає?|What does he shoot?
+Він воліє знімати комедії|He prefers to shoot comedies
+Він надає перевагу їсти овочі|He prefers to eat vegetables
+Це його дім|It is his house
+Це їх проблема|It is their problem
+Ти її друг|You are her friend
+Його звати Джастін, він директор|His name is Justin, he is a director
+Його друг в Нью-Йорку|His friend is in New York
+Вона його бос|She is his boss
+Хто її бос?|Who is her boss
+Ким ти працюєш?|What is your profession?
+Як довго ти тут?|How long are you here?
+Чому ти тут?|Why are you here?
+Я хочу працювати тут|I want to work here
+Хто він?|Who is he?
+Він грає в комп'ютерні ігри зараз|He is playing computer games now
+Я збираюсь подзвонити їй|I am going to call her
+Коли вона буде тут?|When will she be here?
+Я працюю в його компанії|I work in his company
+Вона збирається прийти до нас|She is going to come to us
+Вона не в Токіо|She is not in Tokyo
+Я збираюсь бути пілотом|I am going to be a pilot
+Вони були в Дубаї, а я ні|They were in Dubai, but I am not
+Бос ще тут?|Is this boss still here?
+Я голодний|I am hungry
+Я збираюсь поїсти|I am going to eat

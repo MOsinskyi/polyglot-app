@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/textData">
+        <file>SentencesForPractice/translations1.txt</file>
+        <file>SentencesForPractice/translations2.txt</file>
+        <file>SentencesForPractice/translations3.txt</file>
+        <file>SentencesForPractice/translations4.txt</file>
+        <file>SentencesForPractice/translations5.txt</file>
+    </qresource>
+    <qresource prefix="/markdownData">
+        <file>ReferenсesFromLessons/lesson1.md</file>
+        <file>ReferenсesFromLessons/lesson2.md</file>
+        <file>ReferenсesFromLessons/lesson3.md</file>
+        <file>ReferenсesFromLessons/lesson4.md</file>
+        <file>ReferenсesFromLessons/lesson5.md</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>ReferenсesFromLessons/Images/table1.png</file>
+        <file>ReferenсesFromLessons/Images/table2.png</file>
+        <file>ReferenсesFromLessons/Images/table3.png</file>
+        <file>ReferenсesFromLessons/Images/table4.png</file>
+        <file>ReferenсesFromLessons/Images/table5.png</file>
+        <file>ReferenсesFromLessons/Images/table6.png</file>
+    </qresource>
+</RCC>

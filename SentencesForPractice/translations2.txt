@@ -1,0 +1,54 @@
+Коли ти мене запитаєш?|When will you ask me?
+Я запитаю тебе|I will ask you
+Вона не запитає його|She will not ask him
+Чому він її запитує?|Why does he ask her?
+Ми запитуємо їх|We ask them
+Я не запитую тебе|I do not ask you
+Кого вони запитали?|Who did they ask?
+Я запитав його|I asked him
+Вона не запитала мене|She did not ask me
+Як ти відповіси їм?|How will you answer them?
+Я відповім тобі|I will answer you
+Вона не відповість йому|She will not answer him
+Коли він відповідає їй?|When does he answer her?
+Я не відповідаю їм|I do not answer them
+Коли вони відповіли?|When did they answer?
+Я відповів їй|I answered her
+Він не відповів мені|He did not answer me
+Що ти мені даси?|What will you give me?
+Я дам тобі відповідь|I will give you this answer
+Я не даю тобі|I do not give you
+Що вони дали вам?|What did they give you?
+Він не дав їм відповідь|He did not give them this answer
+Як ти візьмеш це у них?|How will you take it from them?
+Я візьму тебе з собою|I will take you with me
+Вона не візьме його|She will not take his
+Коли він бере її з собою?|When does he take her with him?
+Ми беремо їх до нас|We take them to us
+Де вони взяли?|Where did they take?
+Я взяв у неї книгу|I took this book from her
+Вона не взяла його допомогу|She did not take his help
+Коли ти допоможеш їм?|When will you help them?
+Я допоможу тобі|I will help you
+Вона не допоможе йому з роботою|She will not help him with this work
+Як він допомагає їй?|How does he help her?
+Ми допомагаємо їм|We help them
+Я не допомагаю їм|I do not help them
+Я допоміг їй|I helped her
+Вона не допомогла нам|She did not help us
+З ким ти поговориш?|Who will you speak?
+Я поговорю з тобою|I will speak with you
+Вона не поговорить з ним|She will not speak with him
+Коли він розмовляє з нею?|When does he speak with her?
+Я не говорю з вами|I do not speak with you
+Де вони говорили?|Where did they speak?
+Я говорив з ним|I spoke to him
+Вона не говорила з ним|She did not speak to him
+Куди ти поїдеш?|Where will you travel?
+Я поїду з тобою|I will travel with you
+Вона не поїде до Лондона|She will not travel to London
+Ми подорожуємо|We travel
+Я не подорожую|I do not travel
+Куди вони їздили?|Where did they travel?
+Я подорожував з ними|I traveled with them
+Вона не подорожувала до Парижа|She did not travel to Paris

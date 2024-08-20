@@ -1,0 +1,99 @@
+Я любитиму|I will love
+Вона житиме|She will live
+Він житиме?|Will he live?
+Він любитиме?|Will he love?
+Ми не будемо жити|We will not live?
+Я не буду любити|I will not love
+Він живе?|Does he live?
+Вона любить?|Does she love?
+Я живу|I live
+Він любить|He loves
+Вона не живе|She does not live
+Ми не любимо|We do not love
+Ви жили?|Did you live?
+Вони любили?|Did they love?
+Вони жили|They lived
+Я любив|I loved
+Вона не жила|She did not live
+Вона не любила|She did not love
+Ти працюватимеш?|Will you work?
+Я працюватиму|I will work
+Вона не буде працювати|She will not work
+Він працює?|Does he work?
+Ми працюємо|We work
+Я не працюю|I do not work
+Вони працювали?|Did they work?
+Я працював|I worked
+Вона не працювала|She did not work
+Ти відкриєш?|Will you open?
+Я відкрию|I will open
+Вона не буде відкривати|She will not open
+Він відкриває?|Does he open?
+Ми відкриваємо|We open
+Я не відкриваю|I do not open
+Вони відкривали?|Did they open?
+Я відкрив|I opened
+Вона не відкривала|She did not open
+Ти закриєш?|Will you close?
+Я закрию|I will close
+Вона не буде закривати|She will not close
+Він закриває?|Does he close?
+Ми закриваємо|We close
+Я не закриваю|I do not close
+Вони закривали?|Did they close?
+Я закрив|I closed
+Вона не закривала|She did not close
+Ти побачиш?|Will you see?
+Я побачу|I will see
+Вона не побачить|She will not see
+Він бачить?|Does he see?
+Ми бачимо|We see
+Я не бачу|I do not see
+Вони бачили?|Did they see?
+Я бачив|I saw
+Вона не бачила|She did not see
+Ти прийдеш?|Will you come?
+Я прийду|I will come
+Вона не прийде|She will not come
+Він приходить?|Does he come?
+Ми приходимо|We come
+Я не приходжу|I do not come
+Вони приходили?|Did they come?
+Я прийшов|I came
+Вона не приходила|She did not come
+Ти підеш?|Will you go?
+Я піду|I will go
+Вона не піде|She will not go
+Він йде?|Does he go?
+Ми йдемо|We go
+Я не йду|I do not go
+Вони йшли?|Did they go?
+Я пішов|I went
+Вона не йшла|She did not go
+Ти знатимеш?|Will you know?
+Я знатиму|I will know
+Вона не знатиме|She will not know
+Він знає?|Does he know?
+Ми знаємо|We know
+Я не знаю|I do not know
+Вони знали?|Did they know?
+Я знав|I knew
+Вона не знала|She did not know
+Ти почнеш?|Will you start?
+Я почну|I will start
+Вона не почне|She will not start
+Він починає?|Does he start?
+Ми починаємо|We start
+Я не починаю|I do not start
+Вони починали?|Did they start?
+Я почав|I started
+Вона не починала|She did not start
+Ти закінчиш?|Will you finish?
+Я закінчу|I will finish
+Вона не закінчить|She will not finish
+Він закінчує?|Does he finish?
+Ми закінчуємо|We finish
+Я не закінчую|I do not finish
+Вони закінчили?|Did they finish?
+Я закінчив|I finished
+Вона не закінчила|She did not finish

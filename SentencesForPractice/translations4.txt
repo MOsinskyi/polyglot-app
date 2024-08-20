@@ -1,0 +1,75 @@
+Як вас звати?|What is your name?
+Мене звати Макс|My name is Max
+Я зі США|I am from USA
+Приємно познайомитись з вами|Nice to meet you
+Я Марія|I am Maria
+Звідки ти?|Where are you from?
+Я з України|I am from Ukraine
+Ти у відпустці тут чи по справам?|Are you on vacation here or on business?
+Я у відпустці тут|I am on vacation here
+Як на рахунок тебе?|How about you?
+Я також у відпустці|I am on vacation too
+Я тут зі своїми друзями|I am here with my friends
+Чим ти займаєшся?|What do you do?
+Можливо ти будеш здивована. Я продавець!|Maybe you will be surprised. I am a seller!
+Що нарахунок тебе Марія?|What about you Maria?
+Яка в тебе професія?|What is your profession?
+Можливо ти будеш здивований також. Я автомеханік!|Maybe you will surprised too. I am an auto mechanic
+Ти жартуєш зараз? Це приголомшуюче!|Are you kidding now? It is awesome!
+Зовсім ні!|Not at all!
+Я вивчала машинобудування в Клаустальському університеті в Німеччині| I studied mechanical engineering at Clausthal University in Germany
+Це круто! Доречі, класна куртка|It is cool! By this way, nice jacket
+Де ти взяла її?|Where did you get it?
+Тобі подобається куртка? Справді?|Do you like this jacket? Really?
+Я купила її на розпродажі|I bought it on a sale!
+Ага, я дуже хочу роздобути крутий подарунок для моєї сестри|Yep. I just really have to get a cool gift for my sister
+Це так мило!|It is so cute!
+Я можу розповісти тобі про пару місць|I can tell you about a couple of places
+Де ти можеж роздобути похожі куртки|Where you can get similar jackets
+Це так класно!|That is so cool
+Дивись, мені потрібно йти|Look, I got to go
+Мої друзі приїждають зараз|My friends are coming now
+Я б з радістю випив кави|I woud love to have a coffee
+Мені потрібно практикувати мою англійську|I have to practice my english
+І це було б добре якщо ти змогла б попрактикуватись зі мною|And it would be great if you could practice with me
+Звичайно. Це звучить не погано|Sure. That sounds good
+Ти можеш зустріти мене тут|You can meet me here
+Я приходжу сюди регулярно|I come here regularly
+Я надіюсь|I hope
+Вона надіється|She hopes
+Ти знайшов її?|Did you find her?
+Я надіюсь, ти знайдеш роботу|I hope, you will find a job
+Я не отримав цю роботу|I did not get this job
+Де ти роздобув цей молочний коктель?|Where did you get this milkshake?
+Він відговорив мене|He dissuaded me
+Вона відговорила тебе?|Did she dissuade you?
+Вона не відговорювала мене!|She did not dissuade me!
+Я відмовлю його|I will dissuade him
+Вона відговорила його від покупки дорогої машини|She dissuaded him from buying an expensive car
+Ти зустрів його?|Did you meet him?
+Я зустрів його|I met him
+Ти відговориш її?|Will you dissuade her?
+Я відговорю її|I will dissuade her
+Я надіюсь, ти відговориш його|I hope, you will dissuade him
+Я отримав повідомлення|I got a message
+Вона отримала роботу|She got a job
+Я не знайшов її|I did not find her
+Вона зробила це!|She did it!
+Ти щаслива?|Are you happy?
+Ми надіємся, ви отримаєте всю інформацію|We hope, you will get all this information
+Я надіюсь, ти щаслива|I hope, you are happy
+Чому ти завжди відговорюєш мене?|Why do you always dissuade me?
+Коли ти зустрінеш його наступного разу?|When will you meet him next time?
+Він отримав свої водійські права|He got his driver`s license
+Коли ти отримаєш свої водійські права?|When will you get your driver`s license?
+Де ти знайшла цього хлопця?|Where did you find this guy?
+Я зустріла його в Парижі|I met him in Paris
+Я надіюсь, ти знайдеш його де-небудь|I hope, you will find him somewhere
+Не відмовляй мене. Я знайду його|Do not dissuade me. I will find him
+Чому ти не відговорив її?|Why did not you dissuade her?
+Як ти зробила це?|How did you do it?
+Ти роздобула його номер?|Did you get his number?
+Я роздобула його номер на вечірці|I got his number at a party
+Де ти роздобула цю класну футболку?|Where did you get this cool T-shirt?
+Де ти знайшов цей класний чохол?|Where did you find this cool cover?
+Я надіюсь, ми зустрінемось знову скоро|I hope, we will meet again soon
