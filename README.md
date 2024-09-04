@@ -1,10 +1,14 @@
-![](C:\Users\maxim\Projects\QtProjects\PoliglotEnglishPractice\Icons\banner.png)
+![banner](ReadmeAssets/banner.png)
 
 ![GitHub License](https://img.shields.io/github/license/MOsinskyi/polyglot-app?style=for-the-badge)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/MOsinskyi/polyglot-app?style=for-the-badge&logo=qt)
 
 An app for external repeating and studying lessons from course Polyglot with Dmytrom Petrovym
+
+![references-gif](ReadmeAssets/references.gif)
+
+![practise-gif](ReadmeAssets/practice.gif)
 
 ## 📦 Installation
 
