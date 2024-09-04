@@ -21,7 +21,7 @@
 Це круто! Доречі, класна куртка|It is cool! By this way, nice jacket
 Де ти взяла її?|Where did you get it?
 Тобі подобається куртка? Справді?|Do you like this jacket? Really?
-Я купила її на розпродажі|I bought it on a sale!
+Я купила куртку на розпродажі|I bought jacket on a sale!
 Ага, я дуже хочу роздобути крутий подарунок для моєї сестри|Yep. I just really have to get a cool gift for my sister
 Це так мило!|It is so cute!
 Я можу розповісти тобі про пару місць|I can tell you about a couple of places

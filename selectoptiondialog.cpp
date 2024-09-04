@@ -39,7 +39,7 @@ void SelectOptionDialog::startPractiseLesson()
 void SelectOptionDialog::showReferencesWindow()
 {
     const QString &filePath =
-        ":/markdownData/ReferenсesFromLessons/lesson" + QString::number(lesson) + ".md";
+        ":/markdownData/ReferencesFromLessons/lesson" + QString::number(lesson) + ".md";
 
     referencesWindow = new ReferencesWindow;
 
@@ -77,4 +77,5 @@ void SelectOptionDialog::on_pushButton_2_clicked()
     startPractiseLesson();
     this->close();
 }
+
 

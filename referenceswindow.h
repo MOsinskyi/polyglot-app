@@ -11,7 +11,6 @@
 #include <QFileDialog>
 #include <QPdfWriter>
 #include <QTextDocument>
-#include <cmark.h>
 
 namespace Ui {
 class ReferencesWindow;

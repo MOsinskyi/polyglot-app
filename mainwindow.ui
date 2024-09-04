@@ -13,6 +13,10 @@
   <property name="windowTitle">
    <string>MainWindow</string>
   </property>
+  <property name="windowIcon">
+   <iconset resource="data.qrc">
+    <normaloff>:/icons/Icons/polyglot-app.ico</normaloff>:/icons/Icons/polyglot-app.ico</iconset>
+  </property>
   <widget class="QWidget" name="centralwidget">
    <layout class="QVBoxLayout" name="verticalLayout">
     <item>
@@ -26,7 +30,7 @@
          <x>0</x>
          <y>0</y>
          <width>314</width>
-         <height>524</height>
+         <height>492</height>
         </rect>
        </property>
        <layout class="QVBoxLayout" name="verticalLayout_2">
@@ -39,7 +43,7 @@
            </sizepolicy>
           </property>
           <property name="text">
-           <string>Lesson 1</string>
+           <string>Урок 1</string>
           </property>
          </widget>
         </item>
@@ -52,7 +56,7 @@
            </sizepolicy>
           </property>
           <property name="text">
-           <string>Lesson 2</string>
+           <string>Урок 2</string>
           </property>
          </widget>
         </item>
@@ -65,7 +69,7 @@
            </sizepolicy>
           </property>
           <property name="text">
-           <string>Lesson 3</string>
+           <string>Урок 3</string>
           </property>
          </widget>
         </item>
@@ -78,7 +82,7 @@
            </sizepolicy>
           </property>
           <property name="text">
-           <string>Lesson 4</string>
+           <string>Урок 4</string>
           </property>
          </widget>
         </item>
@@ -91,7 +95,7 @@
            </sizepolicy>
           </property>
           <property name="text">
-           <string>Lesson 5</string>
+           <string>Урок 5</string>
           </property>
          </widget>
         </item>
@@ -104,7 +108,7 @@
            </sizepolicy>
           </property>
           <property name="text">
-           <string>Lesson 6</string>
+           <string>Урок 6</string>
           </property>
          </widget>
         </item>
@@ -117,7 +121,7 @@
            </sizepolicy>
           </property>
           <property name="text">
-           <string>Lesson 7</string>
+           <string>Урок 7</string>
           </property>
          </widget>
         </item>
@@ -130,7 +134,7 @@
            </sizepolicy>
           </property>
           <property name="text">
-           <string>Lesson 8</string>
+           <string>Урок 8</string>
           </property>
          </widget>
         </item>
@@ -143,7 +147,7 @@
            </sizepolicy>
           </property>
           <property name="text">
-           <string>Lesson 9</string>
+           <string>Урок 9</string>
           </property>
          </widget>
         </item>
@@ -156,7 +160,7 @@
            </sizepolicy>
           </property>
           <property name="text">
-           <string>Lesson 10</string>
+           <string>Урок 10</string>
           </property>
          </widget>
         </item>
@@ -169,7 +173,7 @@
            </sizepolicy>
           </property>
           <property name="text">
-           <string>Lesson 11</string>
+           <string>Урок 11</string>
           </property>
          </widget>
         </item>
@@ -182,7 +186,7 @@
            </sizepolicy>
           </property>
           <property name="text">
-           <string>Lesson 12</string>
+           <string>Урок 12</string>
           </property>
          </widget>
         </item>
@@ -195,7 +199,7 @@
            </sizepolicy>
           </property>
           <property name="text">
-           <string>Lesson 13</string>
+           <string>Урок 13</string>
           </property>
          </widget>
         </item>
@@ -208,7 +212,7 @@
            </sizepolicy>
           </property>
           <property name="text">
-           <string>Lesson 14</string>
+           <string>Урок 14</string>
           </property>
          </widget>
         </item>
@@ -221,7 +225,7 @@
            </sizepolicy>
           </property>
           <property name="text">
-           <string>Lesson 15</string>
+           <string>Урок 15</string>
           </property>
          </widget>
         </item>
@@ -234,12 +238,22 @@
            </sizepolicy>
           </property>
           <property name="text">
-           <string>Lesson 16</string>
+           <string>Урок 16</string>
           </property>
          </widget>
         </item>
        </layout>
       </widget>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="label">
+      <property name="text">
+       <string>v0.0.1</string>
+      </property>
+      <property name="alignment">
+       <set>Qt::AlignmentFlag::AlignRight|Qt::AlignmentFlag::AlignTrailing|Qt::AlignmentFlag::AlignVCenter</set>
+      </property>
      </widget>
     </item>
    </layout>
@@ -250,12 +264,14 @@
      <x>0</x>
      <y>0</y>
      <width>348</width>
-     <height>23</height>
+     <height>21</height>
     </rect>
    </property>
   </widget>
   <widget class="QStatusBar" name="statusbar"/>
  </widget>
- <resources/>
+ <resources>
+  <include location="data.qrc"/>
+ </resources>
  <connections/>
 </ui>

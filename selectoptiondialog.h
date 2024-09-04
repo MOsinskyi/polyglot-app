@@ -5,6 +5,7 @@
 #include "referenceswindow.h"
 
 #include <QDialog>
+#include <QDesktopServices>
 
 namespace Ui {
 class SelectOptionDialog;

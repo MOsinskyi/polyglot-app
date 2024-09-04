@@ -48,9 +48,9 @@
 Я їхав туди минулого літа|I went there last summer
 Вона поїде туди на наступний раз|She will go there next time
 Я був там минулого четверга|I was there last thursday
-Я буду в Пекіні цього місяця|I will be in Beijing this month
+Я буду в Україні цього місяця|I will be in Ukraine this month
 Я приїду на наступний раз|I will come next time
-Останній раз я бачив його в Пекіні|Last time I saw him in Beijing
+Останній раз я бачив його в Японії|Last time I saw him in Japan
 Я побачу його в наступному році|I will see him next year
 Він приїхав 4 дні тому|He came 4 days ago
 Ти побачиш їх через неділю|You will see them in a week
@@ -59,8 +59,8 @@
 Я не приїду наступного року|I will not come next year
 Вона була тут в п'ятницю|She was here on friday
 Я приїду в 9|I will come at 9
-Ти приїдеш до Пекіна в серпні?|Will you come to Beijing in August?
-Я поїду в Пекін в наступному році|I will go to Beijing next year
+Ти приїдеш до Японії в серпні?|Will you come to Japan in August?
+Я поїду в Україну в наступному році|I will go to Ukraine next year
 Я бачив її в Суботу|I saw her on Saturday
 Ти будеш тут через тиждень?|Will you be here in a week?
 Вона приїде завтра|She will come tomorrow

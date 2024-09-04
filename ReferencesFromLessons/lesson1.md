@@ -2,7 +2,7 @@
 
 ## Таблиця
 
-![table1](:/images/ReferenсesFromLessons/Images/table1.png)
+![table1](:/images/ReferencesFromLessons/Images/table1.png)
 
 ## Слова з уроку
 
@@ -13,7 +13,6 @@
 | go *[ɡˈoʊ]*   | went *[went]* | йти, їхати        |
 | know *[nˈoʊ]* | knew *[njuː]* | знати             |
 
-<br></br>
 
 | Слово  | Транскрипція | Переклад  |
 | ------ | ------------ | --------- |

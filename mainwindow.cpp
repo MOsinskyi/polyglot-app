@@ -9,11 +9,12 @@ MainWindow::MainWindow(QWidget *parent)
 
     setWindowTitle("PoliglotApp");
 
-    buttons = {ui->lesson1, ui->lesson2, ui->lesson3, ui->lesson4, ui->lesson5};
+    buttons = {ui->lesson1, ui->lesson2, ui->lesson3, ui->lesson4, ui->lesson5,
+               ui->lesson6, ui->lesson7, ui->lesson8, ui->lesson9, ui->lesson10,
+               ui->lesson11, ui->lesson12, ui->lesson13, ui->lesson14, ui->lesson15, ui->lesson16};
 
-    for (int i = 0; i < buttons.size(); ++i) {
+    for (int i = 0; i < buttons.size(); ++i)
         connect(buttons[i], &QPushButton::clicked, this, [this, i](){ openOptionsMenu(i + 1); });
-    }
 }
 
 MainWindow::~MainWindow()

@@ -2,7 +2,7 @@
 
 ## Таблиця
 
-![table2](:/images/ReferenсesFromLessons/Images/table2.png)
+![table2](:/images/ReferencesFromLessons/Images/table2.png)
 
 ## to be
 

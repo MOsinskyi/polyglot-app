@@ -44,7 +44,7 @@
 
 Говорячи про <u>*майбутність*</u> дії, вживаємо прийменник **IN**- через.
 
-![table3](:/images/ReferenсesFromLessons/Images/table3.png) 
+![table3](:/images/ReferencesFromLessons/Images/table3.png) 
 
 > I will see you **in** a week. *(Я побачу тебе **через** тиждень)*<br></br>
 > **In** an hour we will go home. *(**Через** годину підемо додому)*<br></br>
@@ -52,17 +52,17 @@
 
 А ось на минуле нам вказує **AGO** - назад, тому.
 
-![table4](:/images/ReferenсesFromLessons/Images/table4.png) 
+![table4](:/images/ReferencesFromLessons/Images/table4.png) 
 
 > I saw him two weeks **ago**. *(Я бачив його два тижні **тому**)*
 
 **IN** також використовується з <u>місяцями</u> і в цьому випадку перекладається як **"В"**.
 
-![table5](:/images/ReferenсesFromLessons/Images/table5.png) 
+![table5](:/images/ReferencesFromLessons/Images/table5.png) 
 
 І назвами <u>пори року</u>
 
-![table6](:/images/ReferenсesFromLessons/Images/table6.png) 
+![table6](:/images/ReferencesFromLessons/Images/table6.png) 
 
 > I will go to Norway **in** winter. *(Зимою я поїду в Норвегію)*.
 
@@ -74,6 +74,6 @@
 
 Подія запланована на якусь годину Х? Говоріть **АТ** 5 o'clock! На час вказують такі слова: **Before** - до та **After** - після. Запам'ятайте, що наступні слова **last/next/this** у словосполученнях <u>НЕ</u> потребують вживання прийменників.
 
-> Last winter *(минулої зими)*
-> This time *(в цей раз)*
+> Last winter *(минулої зими)*<br></br>
+> This time *(в цей раз)*<br></br>
 > Next week *(на наступному тижні)*

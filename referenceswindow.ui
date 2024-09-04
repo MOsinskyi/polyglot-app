@@ -6,12 +6,16 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>462</width>
-    <height>485</height>
+    <width>686</width>
+    <height>494</height>
    </rect>
   </property>
   <property name="windowTitle">
    <string>MainWindow</string>
+  </property>
+  <property name="windowIcon">
+   <iconset resource="data.qrc">
+    <normaloff>:/icons/Icons/references-window.ico</normaloff>:/icons/Icons/references-window.ico</iconset>
   </property>
   <widget class="QWidget" name="centralwidget">
    <layout class="QVBoxLayout" name="verticalLayout">
@@ -29,8 +33,8 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>462</width>
-     <height>23</height>
+     <width>686</width>
+     <height>21</height>
     </rect>
    </property>
    <widget class="QMenu" name="menuFile">
@@ -54,6 +58,8 @@
    </property>
   </action>
  </widget>
- <resources/>
+ <resources>
+  <include location="data.qrc"/>
+ </resources>
  <connections/>
 </ui>

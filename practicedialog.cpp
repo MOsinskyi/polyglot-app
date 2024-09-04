@@ -83,12 +83,12 @@ void PracticeDialog::sendMessageToUser(QString color, QString text, int &answerV
 void PracticeDialog::refactorUserText(QString &userText)
 {
     static const QMap<QString, QString> replacements = {
-        {"n't", " not"}, {"n`t", " not"}, {"\'m", " am"}, {"`m", " am"},
-        {"\'s", " is"}, {"\'re", " are"}, {"`re", " are"},
-        {"gonna", "going to"}, {"\'ll", " will"}, {" the ", " this "},
+        {"n\'t", " not"}, {"n`t", " not"}, {"\'m", " am"},
+        {"\'s", " is"}, {"\'re", " are"}, {"`re", " are"}, {"`m", " am"},
+        {"gonna", "going to"}, {"\'ll", " will"}, {" the ", " this "}, {" won\'t ", " will not "}
     };
 
-    for (auto it = replacements.constBegin(); it != replacements.constEnd(); ++it)
+    for (auto it = replacements.begin(); it != replacements.end(); ++it)
         userText.replace(it.key(), it.value());
 
     const QStringList symbolsToDelete = {"?", ",", ".", "!"};
@@ -116,7 +116,7 @@ void PracticeDialog::checkSentence()
     refactorUserText(userText);
 
     if (englishSentences[generatedIndex].compare(userText, Qt::CaseInsensitive) == 0) {
-        sendMessageToUser("green", "Correct!", correctAnswersCounter);
+        sendMessageToUser("green", "Правильно!", correctAnswersCounter);
     }
     else {
         sendMessageToUser("red", tmpEnglishSentence, incorrectAnswersCounter);
